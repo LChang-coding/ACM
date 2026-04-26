@@ -1,0 +1,49 @@
+autoDeleteData: false
+autoDetectedPackages:
+- LRU输入输出
+- TwoPoint
+- klook
+- 二叉树的输入输出
+- 前缀后缀
+- 卡码网
+- 哈希
+- 多线程
+- 子串
+- 字符串输入输出
+- 字节自创
+- 拼多多笔试题
+- 数组
+- 滑动窗口
+- 贪心回溯
+- 迷宫
+- 链表
+autoKeepDataNum: 10
+enableAutoDetect: true
+entryDisplayConfig:
+  excludedPathPatterns: []
+  skipJsCss: true
+funcDisplayConfig:
+  skipConstructors: false
+  skipFieldAccess: true
+  skipFieldChange: true
+  skipGetters: false
+  skipNonProjectPackages: false
+  skipPrivateMethods: false
+  skipSetters: false
+ignoreSameClassCall: null
+ignoreSamePackageCall: null
+includedPackagePrefixes: null
+includedParentClasses: null
+maxColSize: 32
+maxNumFirst: 12
+maxNumFirstImportant: 1024
+maxNumHash: 3
+maxNumHashImportant: 256
+maxObjectDepth: 4
+maxStrSize: 4096
+name: xcodemap-filter
+openMainWindow: true
+recordMode: manual
+sourceDisplayConfig:
+  color: blue
+startOnDebug: false
